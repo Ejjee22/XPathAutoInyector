@@ -6,4 +6,4 @@ Script creado para automatizar la explotación de una vulnerabilidad XPath Inyec
 - Librería pwntools
 
 ## Uso en otras máquinas
-Es posible modificar este script para hacerlo funcionar en otros entornos que previamente hayamos comprobado que son vulnerables, para ello, necesitaremos cambiar la variable global `main_url` así como la función `xPathInyect()` para que el contenido que se busque en la respuesta concuerde con el escenario al que nos enfrentamos.
+Es posible modificar este script para hacerlo funcionar en otros entornos que previamente hayamos comprobado que son vulnerables. Para ello, necesitaremos cambiar la variable global `main_url` así como la función `xPathInyect()` para que el contenido que se busque en la respuesta concuerde con el escenario al que nos enfrentamos.
