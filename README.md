@@ -1,5 +1,5 @@
 # XPathAutoInyector
-Script creado para automatizar la explotación de una vulnerabilidad XPath Inyection. Esta concebido para resolver el apartado de dicha vulnerabilidad del CTF [XNMA 1](https://www.vulnhub.com/entry/xtreme-vulnerable-web-application-xvwa-1,209/). Este script en Python es una evolución del que el profesor Marcelo Vázquez aka S4vitar utiliza en la clase correspondiente a esta vulnerabilidad en el curso de `Introducción al Hacking` de su academia [Hack4u](https://hack4u.io/cursos/introduccion-al-hacking/); pensada para obtener de forma automática todo el documento XML que hay detrás de un XPath vulnerable a este tipo de inyecciones.
+Script creado para automatizar la explotación de una vulnerabilidad XPath Inyection. Esta concebido para resolver el apartado de dicha vulnerabilidad del CTF [XVWA 1](https://www.vulnhub.com/entry/xtreme-vulnerable-web-application-xvwa-1,209/). Este script en Python es una evolución del que el profesor Marcelo Vázquez aka S4vitar utiliza en la clase correspondiente a esta vulnerabilidad en el curso de `Introducción al Hacking` de su academia [Hack4u](https://hack4u.io/cursos/introduccion-al-hacking/); pensada para obtener de forma automática todo el documento XML que hay detrás de un XPath vulnerable a este tipo de inyecciones.
 
 ## Requisitos
 - Python3
